@@ -46,3 +46,4 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
   * Brownian Bridge
   * Statistical Arbitrage
   * Volatility Arbitrage
+* Random
