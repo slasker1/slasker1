@@ -16,7 +16,8 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
 | C++           | 2022         | 1/5  |
 
 ## Sorting through my Repos :thought_balloon:
-* Hopkins == coursework turned to code
+* [Hopkins](https://github.com/slasker1/Hopkins)
+ == coursework turned to code
   * Applied Math
   * Mathematics of Finance
   * Interest Rate & Credit Derivatives
@@ -26,12 +27,12 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
   * Advanced Statistics & Time Series Analysis
   * Monte Carlo Methods
   * Machine Learning
-* Trading == live trading engines and trading related models
+* [Trading](https://github.com/slasker1/Trading) == live trading engines and trading related models
   * TD Ameritrade
   * Merton Model - Unwinding Positions
   * TWAP
   * VWAP
-* Pricing == modeling financial products
+* [Pricing](https://github.com/slasker1/Pricing) == modeling financial products
   * Options
   * Futures
   * Forwards
@@ -39,11 +40,11 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
   * Rates
   * Credit
   * Curve Building
-* Research == backtesting engines and market research (code based & quantitatively driven)
+* [Research](https://github.com/slasker1/Research) == backtesting engines and market research (code based & quantitatively driven)
   * Zipline Backtesting Engine
-  * Macro
+  * [Macro](https://github.com/slasker1/Research/Macro)
   * Momentum
   * Brownian Bridge
   * Statistical Arbitrage
   * Volatility Arbitrage
-* Random
+* [Random](https://github.com/slasker1/Random)
