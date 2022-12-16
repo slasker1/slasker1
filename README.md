@@ -41,7 +41,7 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
   * Curve Building
 * [Research](https://github.com/slasker1/Research): Backtesting engines and market research (code based & quantitatively driven)
   * Zipline Backtesting Engine
-  * [Macro](https://github.com/slasker1/Research/Macro)
+  * [Macro](https://github.com/slasker1/Research/tree/main/Macro)
   * Momentum
   * Brownian Bridge
   * Statistical Arbitrage
