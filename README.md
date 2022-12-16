@@ -18,14 +18,14 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
 ## Sorting through my Repos :thought_balloon:
 * [Hopkins](https://github.com/slasker1/Hopkins): Academic Topics
   * Applied Math
-  * Mathematics of Finance
+  * [Mathematics of Finance](https://github.com/slasker1/Hopkins/tree/main/Mathematics%20of%20Finance)
   * Interest Rate & Credit Derivatives
   * Stochastic Differential Equations
   * Risk Management
   * Quantitative Portoflio Theory
   * Advanced Statistics & Time Series Analysis
   * Monte Carlo Methods
-  * Machine Learning
+  * [Machine Learning](https://github.com/slasker1/Hopkins/tree/main/Machine%20Learning)
 * [Trading](https://github.com/slasker1/Trading): Live trading engines and trading related models
   * TD Ameritrade
   * Merton Model - Unwinding Positions
