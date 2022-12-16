@@ -26,12 +26,12 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
   * Advanced Statistics & Time Series Analysis
   * Monte Carlo Methods
   * Machine Learning
-* [Trading](https://github.com/slasker1/Trading) == live trading engines and trading related models
+* [Trading](https://github.com/slasker1/Trading): Live trading engines and trading related models
   * TD Ameritrade
   * Merton Model - Unwinding Positions
   * TWAP
   * VWAP
-* [Pricing](https://github.com/slasker1/Pricing) == modeling financial products
+* [Pricing](https://github.com/slasker1/Pricing): Modeling financial products
   * Options
   * Futures
   * Forwards
@@ -39,7 +39,7 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
   * Rates
   * Credit
   * Curve Building
-* [Research](https://github.com/slasker1/Research) == backtesting engines and market research (code based & quantitatively driven)
+* [Research](https://github.com/slasker1/Research): Backtesting engines and market research (code based & quantitatively driven)
   * Zipline Backtesting Engine
   * [Macro](https://github.com/slasker1/Research/Macro)
   * Momentum
