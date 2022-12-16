@@ -16,8 +16,7 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
 | C++           | 2022         | 1/5  |
 
 ## Sorting through my Repos :thought_balloon:
-* [Hopkins](https://github.com/slasker1/Hopkins)
- == coursework turned to code
+* [Hopkins](https://github.com/slasker1/Hopkins): Academic Topics
   * Applied Math
   * Mathematics of Finance
   * Interest Rate & Credit Derivatives
