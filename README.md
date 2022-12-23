@@ -17,17 +17,19 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
 
 ## Sorting through my Repos :thought_balloon:
 * [Hopkins](https://github.com/slasker1/Hopkins): Academic Topics
-  * Applied Math
-  * [Mathematics of Finance](https://github.com/slasker1/Hopkins/tree/main/Mathematics%20of%20Finance)
-  * Interest Rate & Credit Derivatives
-  * Stochastic Differential Equations
-  * Risk Management
-  * Quantitative Portoflio Theory
-  * Advanced Statistics & Time Series Analysis
-  * Monte Carlo Methods
-  * [Machine Learning](https://github.com/slasker1/Hopkins/tree/main/Machine%20Learning)
+  * [Applied Math](https://github.com/slasker1/Hopkins/tree/main/AppliedMath)
+  * [Mathematics of Finance](https://github.com/slasker1/Hopkins/tree/main/MathofFinance)
+  * [Financial Derivatives](https://github.com/slasker1/Hopkins/tree/main/FinancialDerivatives)
+  * [Interest Rate & Credit Derivatives](https://github.com/slasker1/Hopkins/tree/main/InterestRate_and_CreditDerivatives)
+  * [Stochastic Differential Equations](https://github.com/slasker1/Hopkins/tree/main/StochasticDifferentialEquations)
+  * [Risk Management](https://github.com/slasker1/Hopkins/tree/main/FinancialRiskMgmt)
+  * [Quantitative Portoflio Theory](https://github.com/slasker1/Hopkins/tree/main/QuantPortfolioMgmt)
+  * [Statistics & Data Analysis](https://github.com/slasker1/Hopkins/tree/main/Statistics_and_DataAnalysis)
+  * [Time Series Analysis](https://github.com/slasker1/Hopkins/tree/main/TimeSeriesAnalysis)
+  * [Monte Carlo Methods](https://github.com/slasker1/Hopkins/tree/main/MonteCarloMethods)
+  * [Machine Learning](https://github.com/slasker1/Hopkins/tree/main/MachineLearning)
 * [Trading](https://github.com/slasker1/Trading): Live trading engines and trading related models
-  * TD Ameritrade
+  * [TD Ameritrade](https://github.com/slasker1/Trading/tree/main/TD_Ameritrade)
   * Merton Model - Unwinding Positions
   * TWAP
   * VWAP
