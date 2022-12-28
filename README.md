@@ -1,6 +1,6 @@
 # Hi I'm Sam 👋
 
-Welcome to my profile! I have a background in Financial Engineering and have worked in Financial Services (HedgeFunds). I'll be using this profile to open source code ranging from modeling financial products to live trading/backtesting engines to random machine learning projects. 
+Welcome to my profile! I have a background in Financial Engineering and have worked in Financial Services (HedgeFunds). I'll be using this profile to open source code ranging from modeling financial products to live trading/backtesting engines to machine learning projects. 
 
 ## My Skillset
 ### Personal-Ranking Language Dashboard :zap:
