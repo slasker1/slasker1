@@ -9,11 +9,11 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
 | Python          | 2017         | 5/5  |
 | VBA           | 2016         | 5/5  |
 | SQL           | 2016         | 4/5  |
+| C++           | 2022         | 3/5  |
 | HTML           | 2010         | 3/5  |
 | CSS           | 2010         | 3/5  |
 | R           | 2020         | 2/5  |
 | Java           | 2016         | 1/5  |
-| C++           | 2022         | 1/5  |
 
 ## Sorting through my Repos :thought_balloon:
 * [Hopkins](https://github.com/slasker1/Hopkins): Academic Topics
