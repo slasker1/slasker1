@@ -1,6 +1,6 @@
 # Hi I'm Sam 👋
 
-Welcome to my profile! I have a background in Financial Engineering and have worked in Financial Services (HedgeFunds). I'll be using this profile to open source code ranging from modeling financial products to live trading/backtesting engines to machine learning projects. 
+Welcome to my profile! I have a background in Financial Engineering and have worked in Financial Services (Hedge Fund Industry). I'll be using this profile to open source code ranging from modeling financial products to live trading/backtesting engines to machine learning projects. 
 
 ## My Skillset
 ### Personal-Ranking Language Dashboard :zap:
@@ -31,7 +31,7 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
 * [Trading](https://github.com/slasker1/Trading): Live trading engines and trading related models
   * [TD Ameritrade](https://github.com/slasker1/Trading/tree/main/TD_Ameritrade)
   * Merton Model - Unwinding Positions
-  * TWAP
+  * [TWAP](https://github.com/slasker1/Trading/tree/main/TWAP)
   * VWAP
 * [Pricing](https://github.com/slasker1/Pricing): Modeling financial products
   * Options
