@@ -30,11 +30,11 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
   * [Machine Learning](https://github.com/slasker1/Hopkins/tree/main/MachineLearning)
 * [Trading](https://github.com/slasker1/Trading): Live trading engines and trading related models
   * [TD Ameritrade](https://github.com/slasker1/Trading/tree/main/TD_Ameritrade)
-  * Merton Model - Unwinding Positions
+  * [Equity Momentum Quantitative Strategy](https://github.com/slasker1/Trading/tree/main/EquityMomentumStrat)
   * [TWAP](https://github.com/slasker1/Trading/tree/main/TWAP)
-  * VWAP
+  * [Position Unwind - Liquidity Adjusted VaR](https://github.com/slasker1/Trading/tree/main/PositionUnwind)
 * [Pricing](https://github.com/slasker1/Pricing): Modeling financial products
-  * Options
+  * [Options](https://github.com/slasker1/Pricing/tree/main/Options)
   * Futures
   * Forwards
   * Swaps
@@ -42,10 +42,10 @@ Welcome to my profile! I have a background in Financial Engineering and have wor
   * Credit
   * Curve Building
 * [Research](https://github.com/slasker1/Research): Backtesting engines and market research (code based & quantitatively driven)
-  * Zipline Backtesting Engine
+  * [Zipline Backtesting Engine](https://github.com/slasker1/Research/tree/main/BacktestingEngine)
   * [Macro](https://github.com/slasker1/Research/tree/main/Macro)
   * Momentum
-  * Brownian Bridge
-  * Statistical Arbitrage
+  * [Brownian Bridge](https://github.com/slasker1/Research/tree/main/BrownianBridge)
+  * [Statistical Arbitrage](https://github.com/slasker1/Research/tree/main/StatArb)
   * Volatility Arbitrage
 * [Random](https://github.com/slasker1/Random)
